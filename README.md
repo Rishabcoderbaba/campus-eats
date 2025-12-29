@@ -12,7 +12,7 @@ Campus Eats is a web application that allows students to browse, order, and mana
 
 ## Demo
 
-Live demo link: (https://campus-eats-pray1ctha-rishabbharti660-5485s-projects.vercel.app/)
+Live demo link: https://campus-eats-rishab.vercel.app/
 
 ## Installation
 
